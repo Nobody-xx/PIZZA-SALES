@@ -1,1 +1,3 @@
 # PIZZA-SALES
+
+![](dashboard.png)
